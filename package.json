@@ -1,0 +1,1 @@
+{"name":"hayek-clinic-emr","version":"0.7.1-trial","private":true,"scripts":{"start":"node server.js"},"engines":{"node":">=22.5"}}
